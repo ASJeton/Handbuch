@@ -12,4 +12,4 @@ Das Handbuch enthält Beiträge von Hans Spannheimer, Susanne Braess, Jutta Rüt
 
 [Zum Handbuch](https://github.com/ASJeton/Handbuch/wiki)
 
-[Video](https://ASJeton/Handbuch/IMG_1621.MOV)
+[Video](https://github.com/ASJeton/Handbuch/blob/main/IMG_1621.MOV)
