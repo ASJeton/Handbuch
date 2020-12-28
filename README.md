@@ -11,5 +11,3 @@ Abhandlungen grundsätzlicher Art habe ich ungekürzt im Anhang abgedruckt. Beit
 Das Handbuch enthält Beiträge von Hans Spannheimer, Susanne Braess, Jutta Rüthrich, Erich Beer und Walter Stupp. Allen, die mit zur Herstellung des Handbuches beigetragen haben, sowie den Autoren der Beiträge möchte ich hier danken.
 
 [Zum Handbuch](https://github.com/ASJeton/Handbuch/wiki)
-
-[Video](https://github.com/ASJeton/Handbuch/blob/main/IMG_1621.JPG)
