@@ -4,7 +4,7 @@ Matthias Menningen CC-BY-SA 4.0
 
 ## Vorwort
 
-Seit einiger Zeit wurde der Wunsch an  mich herangetragen, "mal alle technischen Beiträge aus den JETON-Jahrbüchern und Rundschreiben zusammenzustellen und zu veröffentlichen." Das habe ich nun getan. Mir war auch wichtig dabei, einiges von dem was wir (Eckhard Hunger, Günter Niermann und ich) in unserem Bootsbauprojekt erarbeitet haben, zu dokumentieren. Und - all das was ich den Leuten, die gerade einen alten JETON neu gekauft haben, am Telephon erzähle, sollte auch einmal aufgeschrieben werden, so daß ich es einfach verschicken kann. So wurde das vorliegende Werk doch etwas umfangreicher als wir dachten.
+Seit einiger Zeit wurde der Wunsch an  mich herangetragen, "mal alle technischen Beiträge aus den JETON-Jahrbüchern und Rundschreiben zusammenzustellen und zu veröffentlichen." Das habe ich nun getan. Mir war auch wichtig dabei, einiges von dem was wir (Eckhard Hunger, Günter Niermann und ich) in unserem Bootsbauprojekt erarbeitet haben, zu dokumentieren. Und * all das was ich den Leuten, die gerade einen alten JETON neu gekauft haben, am Telephon erzähle, sollte auch einmal aufgeschrieben werden, so daß ich es einfach verschicken kann. So wurde das vorliegende Werk doch etwas umfangreicher als wir dachten.
 Da die vorliegenden Beiträge aus JETON-Jahrbüchern und Rundschreiben der Textverarbeitung zugänglich gemacht wurden, konnten sie redigiert werden. Die Autoren mögen mir verzeihen, daß ich aktuelle und persönliche Bezüge entfernt, die Beiträge auf das Technische reduziert und teilweise gekürzt habe.
 Abhandlungen grundsätzlicher Art habe ich ungekürzt im Anhang abgedruckt. Beiträge, die nicht mehr aktuell sind, wie meine Zusammenstellung von Konstruktionen für den Fockholepunkt fehlen.
 
@@ -15,22 +15,29 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
 ## Inhalt
 
 ### 1 EINLEITUNG
+
 * [Ein Handbuch für WEN?](1-EINLEITUNG#ein-handbuch-für-wen)
 * [Überblick](1-EINLEITUNG#Überblick)
 * [Ziel](1-EINLEITUNG#ziel)
+
 ### 2 HISTORIE
+
 * [Konstruktion](2-HISTORIE#Konstruktion)
 * [Fertigung/Lizenzen](2-HISTORIE#fertigunglizenzen)
 * [Klassenvorschrift](2-HISTORIE#klassenvorschrift)
+
 ### 3 RUMPFBAUWEISE
+
 * Laminierformen
 * Laminat
   * Grundlaminat
   * Versteifungen
   * Gewicht
+
 ### 4 DAS RIGG
-- [Übersicht](4-DAS-RIGG#Übersicht)
-- [Mast](4-DAS-RIGG#mast)
+
+* [Übersicht](4-DAS-RIGG#Übersicht)
+* [Mast](4-DAS-RIGG#mast)
   * [Mastprofile](4-DAS-RIGG#mastprofile)
   * [Verjüngt oder unverjüngt](4-DAS-RIGG#verjüngt-oder-unverjüngt)
   * [Mastlänge](4-DAS-RIGG#mastlange)
@@ -39,79 +46,84 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Vorstag](4-DAS-RIGG#vorstag)
   * [Saling](4-DAS-RIGG#saling)
   * [Lümmel](4-DAS-RIGG#lümmel)
-- [Großbaum](4-DAS-RIGG#großbaum)
-- [Spinnakerbaum](4-DAS-RIGG#spinnakerbaum)
+* [Großbaum](4-DAS-RIGG#großbaum)
+* [Spinnakerbaum](4-DAS-RIGG#spinnakerbaum)
   * [Profile](4-DAS-RIGG#profile)
   * [Endbeschläge](4-DAS-RIGG#endbeschläge)
-- [Klassenvorschrift](4-DAS-RIGG#klassenvorschrift)
-- [Maße des stehendes Gutes](4-DAS-RIGG#maße-des-stehendes-gutes)
-- [Trapeze](4-DAS-RIGG#trapeze)
+* [Klassenvorschrift](4-DAS-RIGG#klassenvorschrift)
+* [Maße des stehendes Gutes](4-DAS-RIGG#maße-des-stehendes-gutes)
+* [Trapeze](4-DAS-RIGG#trapeze)
   * [Allgemeines](4-DAS-RIGG#allgemeines)
   * [Länge](4-DAS-RIGG#länge)
   * [Beidseitiges Trapez](4-DAS-RIGG#beidseitiges-trapez)
   * [Endlostrapez](4-DAS-RIGG#endlostrapez)
-- [Mastcontroller](4-DAS-RIGG#mastcontroller)
-- [Innenlaufende Fallen](4-DAS-RIGG#innenlaufende-fallen)
-- [Fockfall / Riggspannung](4-DAS-RIGG#fockfall---riggspannung)
-- [Großfall](4-DAS-RIGG#großfall)
-- [Spifallsysteme](4-DAS-RIGG#spifallsysteme)
+* [Mastcontroller](4-DAS-RIGG#mastcontroller)
+* [Innenlaufende Fallen](4-DAS-RIGG#innenlaufende-fallen)
+* [Fockfall / Riggspannung](4-DAS-RIGG#fockfall---riggspannung)
+* [Großfall](4-DAS-RIGG#großfall)
+* [Spifallsysteme](4-DAS-RIGG#spifallsysteme)
   * [Übersicht](4-DAS-RIGG#Übersicht-1)
   * [Spifalltalje](4-DAS-RIGG#spifalltalje)
-- [Topnant/Niederholer](4-DAS-RIGG#topnant-niederholer)
-- [Beschläge für Trimmschoten](4-DAS-RIGG#beschl-ge-für-trimmschoten)
-- [Segel](4-DAS-RIGG#segel)
+* [Topnant/Niederholer](4-DAS-RIGG#topnant-niederholer)
+* [Beschläge für Trimmschoten](4-DAS-RIGG#beschl-ge-für-trimmschoten)
+* [Segel](4-DAS-RIGG#segel)
   * [Allgemeines](4-DAS-RIGG#allgemeines-1)
   * [Fockvermessung](4-DAS-RIGG#fockvermessung)
   * [Großsegelvermessung](4-DAS-RIGG#großsegelvermessung)
   * [Halsbändsel](4-DAS-RIGG#halsbändsel)
+
 ### 5 BESCHLÄGE
-* [Fockholepunkt](5-BESCHLÄGE#)
-  * [Allgemeines](5-BESCHLÄGE#)
-  * [Belegung](5-BESCHLÄGE#)
-  * [Holepunkt auf Schiene](5-BESCHLÄGE#)
-  * [Freifliegender Holepunkt mit Luv-Verstellung](5-BESCHLÄGE#)
-  * [Holepunkt auf der serienmäßigen Schiene](5-BESCHLÄGE#)
-* [Großschotführung](5-BESCHLÄGE#)
-  * [Belegung](5-BESCHLÄGE#)
-  * [Traveller oder Drahtdreieck](5-BESCHLÄGE#)
-  * [Boote ohne Traveller](5-BESCHLÄGE#)
-  * [Heckgroßschotführung](5-BESCHLÄGE#)
-  * [Die Talje](5-BESCHLÄGE#)
-* [Spinnakerschot](5-BESCHLÄGE#)
-  * [Führung](5-BESCHLÄGE#)
-  * [Barberholer](5-BESCHLÄGE#)
-  * [Belegung](5-BESCHLÄGE#)
-* [Schoten](5-BESCHLÄGE#)
-  * [Material](5-BESCHLÄGE#)
-  * [Längen](5-BESCHLÄGE#)
-  * [Schotrollen](5-BESCHLÄGE#)
-* [Schwert](5-BESCHLÄGE#)
-  * [Übersicht](5-BESCHLÄGE#)
-  * [Stabilität/Haltbarkeit](5-BESCHLÄGE#)
-  * [Material](5-BESCHLÄGE#)
-  * [Dicke](5-BESCHLÄGE#)
-  * [Umriß](5-BESCHLÄGE#)
-  * [Profil](5-BESCHLÄGE#)
-  * [Gewicht](5-BESCHLÄGE#)
-  * [Führung des Schwertes](5-BESCHLÄGE#)
-  * [Schwertfall](5-BESCHLÄGE#)
-  * [Schwertlippen](5-BESCHLÄGE#)
-* [Ruder/Ruderanlage](5-BESCHLÄGE#)
-  * [Umriß](5-BESCHLÄGE#)
-  * [Balancierung](5-BESCHLÄGE#)
-  * [Profil](5-BESCHLÄGE#)
-  * [Dicke](5-BESCHLÄGE#)
-  * [Gewicht](5-BESCHLÄGE#)
-  * [Material](5-BESCHLÄGE#)
-  * [Ruderanlage](5-BESCHLÄGE#)
-  * [Ruderbeschläge](5-BESCHLÄGE#)
-* [Trimmschoten](5-BESCHLÄGE#)
-  * [Belegung](5-BESCHLÄGE#)
-  * [Baumniederholer](5-BESCHLÄGE#)
-  * [Cunningham](5-BESCHLÄGE#)
-  * [Unterliekstrecker](5-BESCHLÄGE#)
-  * [Fock-Cunningham](5-BESCHLÄGE#)
+
+* [Fockholepunkt](5-BESCHLAEGE#fockholepunkt)
+* [Allgemeines](5-BESCHLAEGE#allgemeines)
+  * [Belegung](5-BESCHLAEGE#belegung)
+  * [Holepunkt auf Schiene](5-BESCHLAEGE#holepunkt-auf-schiene)
+    * [Varianten:](5-BESCHLAEGE#varianten-)
+  * [Freifliegender Holepunkt mit Luv-Verstellung](5-BESCHLAEGE#freifliegender-holepunkt-mit-luv-verstellung)
+  * [Holepunkt auf der serienmäßigen Schiene](5-BESCHLAEGE#holepunkt-auf-der-serienm--igen-schiene)
+* [Großschotführung](5-BESCHLAEGE#gro-schotf-hrung)
+  * [Belegung](5-BESCHLAEGE#belegung-1)
+  * [Traveller oder Drahtdreieck](5-BESCHLAEGE#traveller-oder-drahtdreieck)
+  * [Boote ohne Traveller](5-BESCHLAEGE#boote-ohne-traveller)
+  * [Heckgroßschotführung](5-BESCHLAEGE#heckgro-schotf-hrung)
+  * [Die Talje](5-BESCHLAEGE#die-talje)
+* [Spinnakerschot](5-BESCHLAEGE#spinnakerschot)
+  * [Führung](5-BESCHLAEGE#f-hrung)
+  * [Barberholer](5-BESCHLAEGE#barberholer)
+  * [Belegung](5-BESCHLAEGE#belegung-2)
+* [Schoten](5-BESCHLAEGE#schoten)
+  * [Material](5-BESCHLAEGE#material)
+  * [Längen](5-BESCHLAEGE#l-ngen)
+  * [Schotrollen](5-BESCHLAEGE#schotrollen)
+* [Schwert](5-BESCHLAEGE#schwert)
+  * [Übersicht](5-BESCHLAEGE#-bersicht)
+  * [Stabilität/Haltbarkeit](5-BESCHLAEGE#stabilit-t-haltbarkeit)
+  * [Material](5-BESCHLAEGE#material-1)
+  * [Dicke](5-BESCHLAEGE#dicke)
+  * [Umriß](5-BESCHLAEGE#umri-)
+  * [Profil](5-BESCHLAEGE#profil)
+  * [Gewicht](5-BESCHLAEGE#gewicht)
+  * [Führung des Schwertes](5-BESCHLAEGE#f-hrung-des-schwertes)
+  * [Schwertfall](5-BESCHLAEGE#schwertfall)
+  * [Schwertlippen](5-BESCHLAEGE#schwertlippen)
+* [Ruder/Ruderanlage](5-BESCHLAEGE#ruder-ruderanlage)
+  * [Umriß](5-BESCHLAEGE#umri--1)
+  * [Balancierung](5-BESCHLAEGE#balancierung)
+  * [Profil](5-BESCHLAEGE#profil-1)
+  * [Dicke](5-BESCHLAEGE#dicke-1)
+  * [Gewicht](5-BESCHLAEGE#gewicht-1)
+  * [Material](5-BESCHLAEGE#material-2)
+  * [Ruderanlage](5-BESCHLAEGE#ruderanlage)
+  * [Ruderbeschläge](5-BESCHLAEGE#ruderbeschl-ge)
+* [Trimmschoten](5-BESCHLAEGE#trimmschoten)
+  * [Belegung](5-BESCHLAEGE#belegung-3)
+  * [Baumniederholer](5-BESCHLAEGE#baumniederholer)
+  * [Cunningham](5-BESCHLAEGE#cunningham)
+  * [Unterliekstrecker](5-BESCHLAEGE#unterliekstrecker)
+  * [Fock-Cunningham](5-BESCHLAEGE#fock-cunningham)
+
 ### 6 UMBAUMASSNAMEN/BASTELANLEITUNGEN
+
 * [Mast vermessen](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
   * [Werkzeug](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
   * [Anleitung](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
@@ -185,7 +197,9 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Anleitung](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
 * [Knöpfe](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
 * [Umbau des JETONs zu einem Fahrtenboot](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
+
 ### 7 TRIMM
+
 * [Einführung](7-TRIMM#)
 * [Grundeinstellung](7-TRIMM#)
   * [Steht der Mast gerade?](7-TRIMM#)
@@ -198,7 +212,9 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
 * [Baumniederholer Mast und Mastandrücker beim Drahtdreieck](7-TRIMM#)
   * [Gewichtstrimm längsschiffs](7-TRIMM#)
   * [Spinnaker](7-TRIMM#)
+
 ### 8 ANHANG
+
 * [Über den Umriß von Tragflügeln](8-ANHANG#)
 * [Profile für Schwert und Ruder ihrer](8-ANHANG#)
 * [Für und wider Drahtdreieck beim JETON](8-ANHANG#)
@@ -214,4 +230,5 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Glasmatte/Glasgewebe](8-ANHANG#)
   * [Kohlefasergewebe](8-ANHANG#)
   * [Holz](8-ANHANG#)
+
 ### Register
