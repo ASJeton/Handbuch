@@ -18,16 +18,19 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
 * [Ein Handbuch für WEN?](1-EINLEITUNG#ein-handbuch-für-wen)
 * [Überblick](1-EINLEITUNG#Überblick)
 * [Ziel](1-EINLEITUNG#ziel)
+
 ### 2 HISTORIE
 * [Konstruktion](2-HISTORIE#Konstruktion)
 * [Fertigung/Lizenzen](2-HISTORIE#fertigunglizenzen)
 * [Klassenvorschrift](2-HISTORIE#klassenvorschrift)
+
 ### 3 RUMPFBAUWEISE
 * Laminierformen
 * Laminat
   * Grundlaminat
   * Versteifungen
   * Gewicht
+
 ### 4 DAS RIGG
 - [Übersicht](4-DAS-RIGG#Übersicht)
 - [Mast](4-DAS-RIGG#mast)
@@ -64,6 +67,7 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Fockvermessung](4-DAS-RIGG#fockvermessung)
   * [Großsegelvermessung](4-DAS-RIGG#großsegelvermessung)
   * [Halsbändsel](4-DAS-RIGG#halsbändsel)
+
 ### 5 BESCHLÄGE
 * [Fockholepunkt](5-BESCHLÄGE#)
   * [Allgemeines](5-BESCHLÄGE#)
@@ -111,6 +115,7 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Cunningham](5-BESCHLÄGE#)
   * [Unterliekstrecker](5-BESCHLÄGE#)
   * [Fock-Cunningham](5-BESCHLÄGE#)
+
 ### 6 UMBAUMASSNAMEN/BASTELANLEITUNGEN
 * [Mast vermessen](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
   * [Werkzeug](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
@@ -185,6 +190,7 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Anleitung](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
 * [Knöpfe](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
 * [Umbau des JETONs zu einem Fahrtenboot](6-UMBAUMASSNAMEN-BASTELANLEITUNGEN#)
+
 ### 7 TRIMM
 * [Einführung](7-TRIMM#)
 * [Grundeinstellung](7-TRIMM#)
@@ -198,6 +204,7 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
 * [Baumniederholer Mast und Mastandrücker beim Drahtdreieck](7-TRIMM#)
   * [Gewichtstrimm längsschiffs](7-TRIMM#)
   * [Spinnaker](7-TRIMM#)
+
 ### 8 ANHANG
 * [Über den Umriß von Tragflügeln](8-ANHANG#)
 * [Profile für Schwert und Ruder ihrer](8-ANHANG#)
@@ -214,4 +221,5 @@ Matthias Menningen [CC-BY-SA 4.0](https://github.com/ASJeton/Handbuch/blob/main/
   * [Glasmatte/Glasgewebe](8-ANHANG#)
   * [Kohlefasergewebe](8-ANHANG#)
   * [Holz](8-ANHANG#)
+
 ### Register

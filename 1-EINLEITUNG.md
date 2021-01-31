@@ -1,5 +1,5 @@
 ## Ein Handbuch für WEN?
-Dieses Handbuch richtet sich vor allem an Inhaber von alten JETONs,  die das Boot gerade gebraucht erworben haben oder schon länger einen JETON haben und neuerdings ihre sportlichen Ambitionen entdecken.
+Dieses Handbuch richtet sich vor allem an Inhaber von alten JETONs, die das Boot gerade gebraucht erworben haben oder schon länger einen JETON haben und neuerdings ihre sportlichen Ambitionen entdecken.
 
 ## Überblick
 Serien-JETONs von Klepper oder von Gruben sind von Hause aus nicht komfortabel ausgestattet. Die Beschlagsausrüstung entspricht nicht dem neuesten Stand der Technik und vor allem nicht den Bedürfnissen des Regattasegelns.
