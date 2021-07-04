@@ -1,4 +1,9 @@
-Matthias Menningen CC-BY-SA 4.0
+---
+layout: default
+title: Das Handbuch
+nav_order: 0
+permalink: /
+---
 
 # JETON TECHNISCHES HANDBUCH
 

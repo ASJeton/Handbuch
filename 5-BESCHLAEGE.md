@@ -1,3 +1,9 @@
+---
+layout: default
+title: Beschläge
+nav_order: 5
+---
+
 # 5 Beschläge
 
 ## Inhalt

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rumpfbauweise
+nav_order: 3
+---
+
 # RUMPFBAUWEISE
 
 ## Inhalt

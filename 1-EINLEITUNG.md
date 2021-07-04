@@ -1,3 +1,9 @@
+---
+layout: default
+title: Einleitung
+nav_order: 1
+---
+
 ## Ein Handbuch für WEN?
 Dieses Handbuch richtet sich vor allem an Inhaber von alten JETONs, die das Boot gerade gebraucht erworben haben oder schon länger einen JETON haben und neuerdings ihre sportlichen Ambitionen entdecken.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Das Rigg
+nav_order: 4
+---
+
 Das JETON-Rigg hat im Laufe der Zeit (1970-1974) mehrere Änderungen der Vermessung erfahren. Seither sind die Maße unverändert. Seit 1992 sind verjüngte Masten erlaubt. Die erlaubte Dicke des Baumes wurde 1986 vergrößert. Seit 1992 darf der Baum am Ende abgeschrägt sein.
 In diesem Kapitel wird das Rigg in der aktuellen Vermessung beschrieben.
 

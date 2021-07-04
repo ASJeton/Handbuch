@@ -1,3 +1,9 @@
+---
+layout: default
+title: Umbaumaßnahmen & Bastelanleitungen
+nav_order: 6
+---
+
 # UMBAUMASSNAMEN/BASTELANLEITUNGEN
 
 ## Inhalt
@@ -166,7 +172,7 @@ Von Erich Beer
 5. Druck-Verteilungsplatte V2A 3mm stark, an Bootsrumpf anpassen, 4 Bohrungen Ø ca. 4,5 mm für 4 mm Niete.
 6. V2A-Rohr unter Beachtung der unter 2.) beschriebenen Vorspannung der MCR von je 1x5mm, der Stärke der Druck-Verteilungsplatte und des Neigungswinkels, ablängen.
 7. V2A-Rohr unter Vorspannung, zwischen MCR und Druck-Verteilungsplatte drücken. (MCR rücken dichter zusammen, Mastbreite + 1mm beachten)
-8. V2A-Rohr an Druck-Verteilungsplatte (V2A) anheften. Hierzu ist ein geübter Schweißer erforderlich.	
+8. V2A-Rohr an Druck-Verteilungsplatte (V2A) anheften. Hierzu ist ein geübter Schweißer erforderlich.
 Achtung! Beim Heften den Temperaturfluß in die Bootsschale beachten. Nach ca. 10-15 Sek. Abkühlungszeit- V2A-Rohr mit Druck-Verteilungsplatte herausnehmen und komplett verschweißen.
 9. Nach Vernieten an der Bootsschale, V2A-Rohr mit MCR durch ein 4 mm Niet miteinander verbinden.
 
@@ -401,7 +407,7 @@ Die Auswanderung des Schwertes aus der Mitte kann man nach Messungen an meinem e
 
 Es gibt verschiedene Möglichkeiten, die Oberkante des Schwertkastens zu verstärken. Einige JETON-Besitzer haben um den Schwertkasten einen Rahmen aus Alu-Vierkantrohr gebaut. Dieser Rahmen (Vierkantrohr 40x20x2 mm) wiegt mindestens 1,5 kg. Im Bereich des Haltegestänges für das Schwert treten wegen der Ausbuchtungen Schwierigkeiten auf. Auf dem sich stets kalt anfühlenden Aluminium sitzt der Vorschoter nicht sehr bequem. Aus diesem und noch einigen anderen Gründen (Verletzungsgefahr an den überstehenden Profilen, Aussehen) habe ich eine andere Lösung gewählt, die ich kurz beschreiben möchte.
 
-### Anleitung 
+### Anleitung
 
 Die Schwertkastenoberkante ist mit einer Dicke von ca. 10 mm viel zu dünn. Wie die Abb. 6-7 zeigt, wird die Oberkante durcheine Sandwichkonstruktion versteift. Zunächst klebt man mit Epoxydharzkleber zwei Holzleisten, ca. 1 m lang, 2,0 - 2,5 cm breit und 3,0 cm hoch bündig an den dem Schwertkasten. Das Holz braucht keine besondere Festigkeit zu haben. Es sollte möglichst leicht sein (z.B. Fichte, Red Cedar o.ä.). Auf jede Leiste wird ebenfalls mit Epoxidharz eine Segellatte mit dem Querschnitt 30 x 2 mm aufgeklebt. Alle Klebeflächen müssen vorher mit Sandpapier aufgerauht werden. Zum Anpressen einer Leiste bzw. einer Segellatte benötigt man einige Schraubzwingen. Als Kleber sollte man nur dickflüssiges Harz verwenden; am besten vorher mit Mikrofiller andicken! Bei dünnflüssigen Klebern hat man meist mehr Harz auf dem Bootsboden als in der Klebefuge. Nach Aushärten wird alles glattgeschliffen, gespachtelt, wieder geschliffen und anschließend lackiert.
 
@@ -470,7 +476,7 @@ Bei der Bearbeitung der Segellatte empfiehlt es sich eine Feinstaubmaske zu trag
 
 In Kapitel 5 wurde die endlose Schwertfallführung beschrieben (Abb. 5-9). Hier wird der Einbau in den Original-JETON und einen JETON mit Schwertkastenkragen beschrieben.
 
-### Material 
+### Material
 * Schwertfall: 6.50 m, 6 mm Ø,
 * Gummi: ca. 2.00 m lang, 5 mm Ø,
 * Ende,
@@ -540,11 +546,11 @@ Sollten einige Unebenheiten (Vertiefungen) verbleiben, so kann man diese mit Epo
 
 ### Andere Materialien
 
-Stabverleimte Schwerter:	
+Stabverleimte Schwerter:
 
 stabverleimte Schwerter brechen entlang der Linie D-D. Man sollte sie deshalb in der beschriebenen Art und Weise verstärken. Auch hier ist eine Reparatur nach einem Längsbruch möglich. Voraussetzung für eine Reparatur ist natürlich immer, daß die Bruchstücke wieder einwandfrei zusammen gesetzt werden können. Wenn das Schwert beim Brechen sehr stark splittert, kann dies erhebliche Schwierigkeiten bereiten.
 
-Schwerter aus Sperrholz:	
+Schwerter aus Sperrholz:
 
 Sperrholzschwerter brechen auch nicht längs der Linie D-D in Abb. 5-7. Wenn sie brechen, bricht der exzentrische Zapfen etwa bei C-C ab.
 
@@ -558,7 +564,7 @@ Wer sich ein wirklich gutes Schwert selbst bauen will, dem sei als Material norm
 
 ## Umbau der Originalruderanlage
 
-Das Problem, daß die Original-Ruderpinne (manchmal viel) zu  kurz ist, läßt  sich durch folgende Radikalkur beseitigen. 
+Das Problem, daß die Original-Ruderpinne (manchmal viel) zu  kurz ist, läßt  sich durch folgende Radikalkur beseitigen.
 
 ### Material
 * Aluminium-Vierkantprofil, 40x20x2, Länge ca. 1,20 m,
@@ -578,7 +584,7 @@ Das Problem, daß die Original-Ruderpinne (manchmal viel) zu  kurz ist, läßt  
 ### Anleitung
 
 1. Den oberen Teil des Ruderkopfes, in den das alte Pinnenrohr hineingesteckt wird, mit der Trennscheibe oder Metallsäge abtrennen.
-2. Fläche planfeilen und an Alu-Profilrohr anpassen. 
+2. Fläche planfeilen und an Alu-Profilrohr anpassen.
 3. 4 Löcher für Schrauben durch das Profilrohr bohren. Es werden zunächst Löcher von 4mmØ Gewinde (M5) gebohrt, so daß die Positionen genau auf den Ruderkopf übertragen werden können. Wenn die Löcher schlecht passen, müssen sie später aufgebohrt werden, und man hat Spiel.
 4. Bei der Position ist darauf zu achten, daß nachher beim Festschrauben die Schraubenköpfe innerhalb des Profilrohrs Platz haben müssen.
 5. Profilrohr auf den Ruderkopf auflegen und Löcher paßgerecht (4 mm Ø) in den Ruderkopf bohren.
@@ -587,7 +593,7 @@ Das Problem, daß die Original-Ruderpinne (manchmal viel) zu  kurz ist, läßt  
 8. Pinne auf die richtige Länge sägen.
 9. Am Ende Löcher zur Anbringung des Pinnenauslegers und Löcher für Klemmen bohren.
 10. Pinne auf den Ruderkopf schrauben
-11. Ausleger und Klemmen anbringen. 
+11. Ausleger und Klemmen anbringen.
 
 ![Abb. 6-9 Ruderpinne Klepper-Ruderkopf](images/6-9-ruderpinne-klepper-ruderkopf.gif)
 
