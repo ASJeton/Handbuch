@@ -1,4 +1,5 @@
 *.gem
+.vs
 .bundle
 .ruby-version
 .jekyll-cache
