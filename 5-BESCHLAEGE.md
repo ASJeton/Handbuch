@@ -4,57 +4,15 @@ title: Beschläge
 nav_order: 5
 ---
 
-# 5 Beschläge
+# BESCHLÄGE
+{: .no_toc }
 
 ## Inhalt
+{: .no_toc .text-delta }
 
-* [Fockholepunkt](#fockholepunkt)
-* [Allgemeines](#allgemeines)
-  * [Belegung](#belegung)
-  * [Holepunkt auf Schiene](#holepunkt-auf-schiene)
-    * [Varianten:](#varianten-)
-  * [Freifliegender Holepunkt mit Luv-Verstellung](#freifliegender-holepunkt-mit-luv-verstellung)
-  * [Holepunkt auf der serienmäßigen Schiene](#holepunkt-auf-der-serienm--igen-schiene)
-* [Großschotführung](#gro-schotf-hrung)
-  * [Belegung](#belegung-1)
-  * [Traveller oder Drahtdreieck](#traveller-oder-drahtdreieck)
-  * [Boote ohne Traveller](#boote-ohne-traveller)
-  * [Heckgroßschotführung](#heckgro-schotf-hrung)
-  * [Die Talje](#die-talje)
-* [Spinnakerschot](#spinnakerschot)
-  * [Führung](#f-hrung)
-  * [Barberholer](#barberholer)
-  * [Belegung](#belegung-2)
-* [Schoten](#schoten)
-  * [Material](#material)
-  * [Längen](#l-ngen)
-  * [Schotrollen](#schotrollen)
-* [Schwert](#schwert)
-  * [Übersicht](#-bersicht)
-  * [Stabilität/Haltbarkeit](#stabilit-t-haltbarkeit)
-  * [Material](#material-1)
-  * [Dicke](#dicke)
-  * [Umriß](#umri-)
-  * [Profil](#profil)
-  * [Gewicht](#gewicht)
-  * [Führung des Schwertes](#f-hrung-des-schwertes)
-  * [Schwertfall](#schwertfall)
-  * [Schwertlippen](#schwertlippen)
-* [Ruder/Ruderanlage](#ruder-ruderanlage)
-  * [Umriß](#umri--1)
-  * [Balancierung](#balancierung)
-  * [Profil](#profil-1)
-  * [Dicke](#dicke-1)
-  * [Gewicht](#gewicht-1)
-  * [Material](#material-2)
-  * [Ruderanlage](#ruderanlage)
-  * [Ruderbeschläge](#ruderbeschl-ge)
-* [Trimmschoten](#trimmschoten)
-  * [Belegung](#belegung-3)
-  * [Baumniederholer](#baumniederholer)
-  * [Cunningham](#cunningham)
-  * [Unterliekstrecker](#unterliekstrecker)
-  * [Fock-Cunningham](#fock-cunningham)
+1. TOC
+{:toc}
+---
 
 ## Fockholepunkt
 

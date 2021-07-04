@@ -4,82 +4,15 @@ title: Umbaumaßnahmen & Bastelanleitungen
 nav_order: 6
 ---
 
-# UMBAUMASSNAMEN/BASTELANLEITUNGEN
+# UMBAUMASSNAHMEN & BASTELANLEITUNGEN
+{: .no_toc }
 
 ## Inhalt
+{: .no_toc .text-delta }
 
-* [Mast vermessen](#mast-vermessen)
-    * [Werkzeug](#werkzeug)
-    * [Anleitung](#anleitung)
-* [Umbau der Meßmarke MVS](#umbau-der-me-marke-mvs)
-    * [Material](#material)
-    * [Werkzeug](#werkzeug-1)
-    * [Anleitung](#anleitung-1)
-* [Wenn man einen neuen Mast braucht...](#wenn-man-einen-neuen-mast-braucht)
-    * [Fabrikate](#fabrikate)
-* [Mastcontroller mit Abstützung aufs Seitendeck](#mastcontroller-mit-abst-tzung-aufs-seitendeck)
-    * [Material](#material-1)
-    * [Werkzeug](#werkzeug-2)
-    * [Anleitung](#anleitung-2)
-* [Fockholepunkt auf Schiene](#fockholepunkt-auf-schiene)
-    * [Material](#material-2)
-    * [Werkzeug](#werkzeug-3)
-    * [Vorarbeiten](#vorarbeiten)
-    * [Festlegen der Position](#festlegen-der-position)
-    * [Einbauanleitung](#einbauanleitung)
-* [Freifliegender Holepunkt](#freifliegender-holepunkt)
-    * [Material](#material-3)
-    * [Werkzeug](#werkzeug-4)
-    * [Anleitung](#anleitung-3)
-* [Leeschotbelegung auf Originalschiene](#leeschotbelegung-auf-originalschiene)
-    * [Material](#material-4)
-    * [Anleitung](#anleitung-4)
-* [Großschottisch](#gro-schottisch)
-    * [Material](#material-5)
-    * [Werkzeug](#werkzeug-5)
-* [Einbauanleitung Großschottisch A](#einbauanleitung-gro-schottisch-a)
-* [Einbauanleitung Großschottisch B](#einbauanleitung-gro-schottisch-b)
-* [Innenlaufendes Spifall/innenlaufender Topnant](#innenlaufendes-spifall-innenlaufender-topnant)
-    * [Material](#material-6)
-    * [Anleitung](#anleitung-5)
-* [Spifalltalje](#spifalltalje)
-    * [Material](#material-7)
-    * [Anleitung](#anleitung-6)
-* [Salingverstellung preiswert](#salingverstellung-preiswert)
-    * [Material](#material-8)
-    * [Werkzeug](#werkzeug-6)
-* [Schwertkastenverstärkung](#schwertkastenverst-rkung)
-    * [Anleitung](#anleitung-7)
-* [Reparatur aufgerissener Schwertkasten oder Scheuerleiste](#reparatur-aufgerissener-schwertkasten-oder-scheuerleiste)
-    * [Der Schaden](#der-schaden)
-    * [Anleitung](#anleitung-8)
-* [Schwertführung](#schwertf-hrung)
-    * [Material](#material-9)
-    * [Werkzeug](#werkzeug-7)
-    * [Anleitung](#anleitung-9)
-* [Schwertfallführung ohne Klemme](#schwertfallf-hrung-ohne-klemme)
-    * [Material](#material-10)
-    * [Anleitung](#anleitung-10)
-* [Verbesserung des Schwertes](#verbesserung-des-schwertes)
-* [Schwertreparatur](#schwertreparatur)
-    * [Einleitung](#einleitung)
-    * [Material](#material-11)
-    * [Werkzeug](#werkzeug-8)
-    * [Anleitung](#anleitung-11)
-    * [Andere Materialien](#andere-materialien)
-    * [Selbstbau von Sperrholzschwertern](#selbstbau-von-sperrholzschwertern)
-* [Umbau der Originalruderanlage](#umbau-der-originalruderanlage)
-    * [Material](#material-12)
-    * [Werkzeug](#werkzeug-9)
-    * [Anleitung](#anleitung-12)
-* [Trimmbank](#trimmbank)
-    * [Material](#material-13)
-    * [Werkzeug](#werkzeug-10)
-    * [Anleitung](#anleitung-13)
-* [Zuspachteln von Löchern/Gelcoatschäden](#zuspachteln-von-l-chern-gelcoatsch-den)
-    * [Anleitung](#anleitung-14)
-    * [Knöpfe](#kn-pfe)
-* [Umbau des JETONs zu einem Fahrtenboot](#umbau-des-jetons-zu-einem-fahrtenboot)
+1. TOC
+{:toc}
+---
 
 ## Mast vermessen
 Bevor irgendwelche Umbaumaßnamen am Mast durchgeführt werden, sollte man ihn sorgfältig vermessen. Alle Meßmarken und auch die Sollpositionen aller Beschläge sollten angezeichnet werden.

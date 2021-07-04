@@ -4,45 +4,19 @@ title: Das Rigg
 nav_order: 4
 ---
 
+# DAS RIGG
+{: .no_toc }
+
 Das JETON-Rigg hat im Laufe der Zeit (1970-1974) mehrere Änderungen der Vermessung erfahren. Seither sind die Maße unverändert. Seit 1992 sind verjüngte Masten erlaubt. Die erlaubte Dicke des Baumes wurde 1986 vergrößert. Seit 1992 darf der Baum am Ende abgeschrägt sein.
 In diesem Kapitel wird das Rigg in der aktuellen Vermessung beschrieben.
+{: .fs-6 .fw-300 }
 
 ## Inhalt
-- [Übersicht](#Übersicht)
-- [Mast](#mast)
-  * [Mastprofile](#mastprofile)
-  * [Verjüngt oder unverjüngt](#verjüngt-oder-unverjüngt)
-  * [Mastlänge](#mastlange)
-  * [Mastvermessung](#mastvermessung)
-  * [Die Meßmarke MVS](#die-meßmarke-mvs)
-  * [Vorstag](#vorstag)
-  * [Saling](#saling)
-  * [Lümmel](#lümmel)
-- [Großbaum](#großbaum)
-- [Spinnakerbaum](#spinnakerbaum)
-  * [Profile](#profile)
-  * [Endbeschläge](#endbeschläge)
-- [Klassenvorschrift](#klassenvorschrift)
-- [Maße des stehendes Gutes](#maße-des-stehendes-gutes)
-- [Trapeze](#trapeze)
-  * [Allgemeines](#allgemeines)
-  * [Länge](#länge)
-  * [Beidseitiges Trapez](#beidseitiges-trapez)
-  * [Endlostrapez](#endlostrapez)
-- [Mastcontroller](#mastcontroller)
-- [Innenlaufende Fallen](#innenlaufende-fallen)
-- [Fockfall / Riggspannung](#fockfall---riggspannung)
-- [Großfall](#großfall)
-- [Spifallsysteme](#spifallsysteme)
-  * [Übersicht](#Übersicht-1)
-  * [Spifalltalje](#spifalltalje)
-- [Topnant/Niederholer](#topnant-niederholer)
-- [Beschläge für Trimmschoten](#beschl-ge-für-trimmschoten)
-- [Segel](#segel)
-  * [Allgemeines](#allgemeines-1)
-  * [Fockvermessung](#fockvermessung)
-  * [Großsegelvermessung](#großsegelvermessung)
-  * [Halsbändsel](#halsbändsel)
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---
 
 ## Mast
 ### Mastprofile

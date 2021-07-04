@@ -5,14 +5,14 @@ nav_order: 3
 ---
 
 # RUMPFBAUWEISE
+{: .no_toc }
 
 ## Inhalt
+{: .no_toc .text-delta }
 
-* [Laminierformen](#laminierformen)
-* [Laminat](#laminat)
-    * [Grundlaminat](#grundlaminat)
-    * [Versteifungen](#versteifungen)
-    * [Gewicht](#gewicht)
+1. TOC
+{:toc}
+---
 
 ## Laminierformen
 
